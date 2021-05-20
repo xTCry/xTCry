@@ -1,9 +1,9 @@
 <h1 align="center">
-    <b>Hello there, I'm <a href="https://github.com/xTCry">@xTCry</a> 👋</b>
+    <b>Hello there, I'm <a href="https://github.com/xTCry">Vlad</a> 👋 @xTCry</b>
 </h1>
   
 <p align="center">
-    <img src="https://github-readme-stats.codestackr.vercel.app/api?username=xtcry&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=gotham" />
+    <img src="https://github-readme-stats.vercel.app/api?username=xtcry&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=gotham" />
     <a href="https://wakatime.com/@xTCry" alt="Wakatime">
         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=xTCry&theme=gotham&qq" />
     </a>

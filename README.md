@@ -25,6 +25,7 @@
     <a href="#" alt="Counter">
         <img src="https://visitor-badge.laobi.icu/badge?page_id=xtcry.xtcry&title=viewers&color=grey&style=flat-square" width="0" />
         <img src="https://komarev.com/ghpvc/?username=xtcry&label=viewers&color=grey&style=flat-square" />
+        <img src="https://visitcount.itsvg.in/api?id=xTCry&label=views&color=11&icon=2&pretty=true" width="0" />
     </a>
 </p>
 
